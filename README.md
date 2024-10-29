@@ -2,7 +2,7 @@
 - 👀 I’m interested in calisthenics and coding.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on React projects.
-- 📫 How to reach me: my email: demina.ivann@gmail.com; my Telegram: https://t.me/georgie-the-developer.
+- 📫 How to reach me: my Telegram: https://t.me/georgie-the-developer. My linkedIn account is linked in the profile info.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: no fun facts... yet.
 - Additional skill: I am mastering touch typing, when I'm done I will attach a speed & accuracy sertificate here.
