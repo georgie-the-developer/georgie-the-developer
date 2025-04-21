@@ -9,6 +9,8 @@
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -22,13 +24,13 @@
 # 👋 Hi there! I'm George (@georgie-the-developer)
 
 ## 🚀 About Me  
-- 👀 **Interests**: Calisthenics & Frontend Development  
-- 🌱 **Currently Learning**: React  
-- 💞️ **Looking to Collaborate On**: React projects  
+- 👀 **Interests**: Calisthenics & Frontend Development.
+- 🌱 **Currently Learning**: React, React Router, Next.js, Typescript, Go (for fun)
+- 💞️ **Looking to Collaborate On**: React projects, Typescript projects, Next.js projects
 
 ## 📫 How to Reach Me  
 - 📲 **Telegram**: [@georgie-the-developer](https://t.me/georgie-the-developer)  
-- 💼 **LinkedIn**: Linked in profile info  
+- 💼 **LinkedIn**: Linked in profile info
 
 ## 📚 Note  
 Some older repositories may have two GitHub Pages links — this is because my account was previously named **demina-ivan23**. I've since rebranded to reflect my real name, and now it’s **georgie-the-developer**.  
