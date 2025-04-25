@@ -28,7 +28,7 @@
 
 ## 🚀 About Me  
 - 👀 **Interests**: Calisthenics & Frontend Development.
-- 🌱 **Currently Learning**: React, React Router, Next.js, Typescript, Go (for fun)
+- 🌱 **Currently Learning**: React, React Router, Next.js, Typescript, Go & DS&A (for fun)
 - 💞️ **Looking to Collaborate On**: React projects, Typescript projects, Next.js projects
 
 ## 📫 How to Reach Me  
