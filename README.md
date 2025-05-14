@@ -25,8 +25,8 @@
 
 ## 🚀 About Me  
 - 👀 **Interests**: Calisthenics & Frontend Development.
-- 🌱 **Currently Learning**: React, React Router, Next.js, Typescript, Go & DS&A (for fun)
-- 🤝 **Looking to Collaborate On**: React projects, Typescript projects, Next.js projects
+- 🌱 **Currently Learning**: React, React Router, Typescript; Go & DS&A (for fun).
+- 🤝 **Looking to Collaborate On**: React projects, Javascript/Typescript projects
 
 ## 📫 How to Reach Me  
 - 📲 **Telegram**: [@georgie-the-developer](https://t.me/georgie-the-developer)  
