@@ -21,7 +21,7 @@
 
 ###
 ###
-# 👋 Hi there! I'm George (@georgie-the-developer)
+# 👋 Hi there! I'm Yurii (@georgie-the-developer)
 
 ## 🚀 About Me  
 - 👀 **Interests**: Calisthenics & Frontend Development.
