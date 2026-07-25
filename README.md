@@ -1,1 +1,1 @@
-# Not doing frontend anymore
+# Looking for a backend job
